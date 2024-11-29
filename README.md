@@ -25,7 +25,7 @@ Steps to Set Up and Run the Project:
 1) Download the Repository.
 - Clone the repository to your local machine using the following command:
 Code: 
-git clone https://github.com/your-repository-link
+git clone https://github.com/alaahassan14/Car-Reviewer-Project
 
 - Or download the repository as a ZIP file and extract it.
 
